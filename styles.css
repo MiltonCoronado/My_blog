@@ -85,7 +85,7 @@ nav .profile-link a {
 .home-main {
     display: grid;
     grid-template-columns: 1fr 4fr 1fr;
-    background-image: url('/Assets/assets/img/Cover.png');
+    background-image: url('./Assets/assets/img/Cover.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
